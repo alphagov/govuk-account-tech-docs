@@ -4,15 +4,13 @@ host:
 # Header-related options
 show_govuk_logo: true
 service_name: Accounts
-service_link: https://docs.account.publishing.service.gov.uk/
+service_link: https://www.gov.uk/
 phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
   About: /
-  Get Started: /
-  Documentation: /
-  Support: /
+  Get Started: /get-started/#get-started
 footer_links:
   Technical Documentation Accessibility: /accessibility.html
 
